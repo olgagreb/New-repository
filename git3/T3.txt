@@ -1,1 +1,3 @@
-print ("Hello, Olga")
+print ("Hello, Olha")
+print ("Let's")
+Привіт Ольга Василівна
